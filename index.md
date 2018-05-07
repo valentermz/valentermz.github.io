@@ -11,7 +11,7 @@ I received my Ph.D. from [Cornell University](http://www.math.cornell.edu) in 20
 I'm mainly interested in the study, both local and global, of holomorphic foliations and vector fields on complex manifolds, and the rich interplay this theory has with dynamical systems, topology, and analytic and algebraic geometry.
 
 
-### Contact
+## Contact
 
 **Address:**  
 Institut de Recherche Mathématique de Rennes  
@@ -22,3 +22,9 @@ France
 
 **Email:**  
 valente.ramirez (at) univ-rennes1 (dot) fr
+
+### Some links:
+
+arXiv: [ramirez_v_1](https://arxiv.org/a/ramirez_v_1)  
+GitHub: [valentermz](https://github.com/valentermz)  
+ResearchGate: [Valente_Ramirez](https://www.researchgate.net/profile/Valente_Ramirez)
