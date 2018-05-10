@@ -29,3 +29,7 @@ valente.ramirez (at) univ-rennes1 (dot) fr
 arXiv: [ramirez_v_1](https://arxiv.org/a/ramirez_v_1)  
 GitHub: [valentermz](https://github.com/valentermz)  
 ResearchGate: [Valente_Ramirez](https://www.researchgate.net/profile/Valente_Ramirez)
+
+&nbsp;
+
+&nbsp;
