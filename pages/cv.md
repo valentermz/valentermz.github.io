@@ -60,3 +60,6 @@ The computations needed in some of the above papers are hosted in my GitHub page
 
 * [Spectra of quadratic vector fields](https://github.com/valentermz/Hidden-relation-qvfs)  
 
+&nbsp;
+
+&nbsp;
