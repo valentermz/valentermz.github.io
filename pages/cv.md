@@ -6,32 +6,32 @@ permalink: /cv/
 
 ## Education
 
-**Cornell University**:  
-Ph.D. in Mathematics, August 2017.  
-M.Sc. in Mathematics, November 2014.  
+**Cornell University**  
+Ph.D. in Mathematics, August 2017  
+M.Sc. in Mathematics, November 2014  
 
-**Universidad Nacional Autónoma de México (UNAM)**:  
-B.Sc.(honors) in Mathematics, December 2011.  
+**Universidad Nacional Autónoma de México (UNAM)**  
+B.Sc.(honors) in Mathematics, December 2011  
 
 
 ## Awards
 
-**Eleanor York Award** – Awarded by the Department of Mathematics, Cornell University for academic achievement, 2014.  
-**Gabino Barreda Medal** – For academic merit, Universidad Nacional Autónoma de México, 2013.  
-**Sotero Prieto Medal** – Awarded by Sociedad Matemática Mexicana to the best undergraduate thesis in 2012.  
-**Academic Excellence Prize** – I received this prize (Beca de Excelencia Académica) three years in a row in 2008, 2009 and 2010 from the Mexican Department of Education (SEP).
+**Eleanor York Award** – Awarded by the Department of Mathematics, Cornell University for academic achievement, 2014  
+**Gabino Barreda Medal** – For academic merit, Universidad Nacional Autónoma de México, 2013  
+**Sotero Prieto Medal** – Awarded by Sociedad Matemática Mexicana to the best undergraduate thesis in 2012  
+**Academic Excellence Prize** – I received this prize (Beca de Excelencia Académica) three years in a row in 2008, 2009 and 2010 from the Mexican Department of Education (SEP)  
 
 
 ## Fellowships
 
-**Marie Skłodowska-Curie Fellow** 2017 to present.  
-**Campus France PRESTIGE Fellow** 2017 to present.  
-**Conacyt Fellow** – 2013-2017.  
-**Cornell Graduate School Fellow** – 2015-2017.  
-**Beca Complemento DGRI-SEP** – 2013-2015.  
-**Cornell Sage Fellowship** – 2012-2013.  
-**Conacyt Fellow (tesista)** – 2010-2011.  
-**Fundación Telmex Fellow** – 2008-2011.
+**Marie Skłodowska-Curie Fellow** 2017 to present  
+**Campus France PRESTIGE Fellow** 2017 to present  
+**Conacyt Fellow** – 2013-2017  
+**Cornell Graduate School Fellow** – 2015-2017  
+**Beca Complemento DGRI-SEP** – 2013-2015  
+**Cornell Sage Fellowship** – 2012-2013  
+**Conacyt Fellow (tesista)** – 2010-2011  
+**Fundación Telmex Fellow** – 2008-2011  
 
 
 ## Publications

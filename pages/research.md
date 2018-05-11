@@ -46,7 +46,7 @@ The above ideas are very related to a similar situation about regular endomorphi
 
 **[6]** "Spectra of quadratic vector fields on $\mathbb{C}^2$: The missing relation" (preprint).
 
-The code to perform all the computations for this last project is hosted on my [GitHub page](https://github.com/valentermz).
+**Note:** The code to perform all the computations for this last project is hosted on my [GitHub page](https://github.com/valentermz).
 
 &nbsp;
 
