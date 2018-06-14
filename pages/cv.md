@@ -57,6 +57,8 @@ B.Sc.(honors) in Mathematics, December 2011
 **[b]** "Spectra of quadratic vector fields on $\mathbb{C}^2$: The missing relation".  
 [arXiv: 1705.06340v2](https://arxiv.org/abs/1705.06340).
 
+You can also download a pdf version of my CV <a href="{{ site.baseurl }}/documents/CV-June2018.pdf">here</a>.
+
 
 ## Additional material
 
@@ -65,6 +67,8 @@ The computations needed in some of the above papers are hosted in my GitHub page
 * [Twin vector fields](https://github.com/valentermz/Twin-vector-fields)  
 
 * [Spectra of quadratic vector fields](https://github.com/valentermz/Hidden-relation-qvfs)  
+
+* [Spectra of holomorphic self-maps](https://github.com/valentermz/Test-hidden-quadratic-endomorphisms)  
 
 &nbsp;
 
