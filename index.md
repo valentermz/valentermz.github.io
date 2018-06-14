@@ -12,6 +12,9 @@ I received my Ph.D. from [Cornell University](http://www.math.cornell.edu) in 20
 I'm mainly interested in the study, both local and global, of holomorphic foliations and vector fields on complex manifolds, and the rich interplay this theory has with dynamical systems, topology, and analytic and algebraic geometry.
 
 
+<img src="{{ site.baseurl }}/images/valente.JPG" alt="profile_pic" style="float:right;max-width: 30%;
+    height: auto;">
+
 ## Contact
 
 **Address:**  
