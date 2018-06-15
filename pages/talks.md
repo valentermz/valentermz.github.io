@@ -51,7 +51,7 @@ Here’s a list of some of the talks and posters I’ve presented in the last se
 * **"The GSV index for vector fields on singular varieties"**  
   The Olivetti Club Seminar (Cornell), Ithaca, USA, Mar. 2015  
 
-* **"The analytic classification of germs of maps tangent to identity"** (<a href="{{ site.baseurl }}/documents/slides/germs_tangent_to_id-handout">slides</a>)  
+* **"The analytic classification of germs of maps tangent to identity"** (<a href="{{ site.baseurl }}/documents/slides/germs_tangent_to_id-handout.pdf">slides</a>)  
   Presentation given at a Complex Analysis course at Cornell in the Fall of 2014  
 
 * **"Hilbert’s 16th Problem"** (<a href="{{ site.baseurl }}/documents/slides/olivetti-2013-handout.pdf">slides</a>)  
