@@ -6,7 +6,7 @@ permalink: /research/
 
 I'm mainly interested in the study, both local and global, of holomorphic foliations and vector fields on complex manifolds, and the rich interplay this theory has with dynamical systems, topology, and analytic and algebraic geometry. 
 
-Below is a description of the main topics I've worked on, with their respective publications. You can find more details about my publications in my [CV page](/cv/).
+Below is a description of the main topics I've worked on, with their respective publications. You can find more details, links and pdf versions of my publications in my [CV page](/cv/).
 
 
 ## Isomonodromic deformations of connections
