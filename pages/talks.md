@@ -32,7 +32,7 @@ Here’s a list of some of the talks and posters I’ve presented in the last se
 
 * **"Topological rigidity of quadratic vector fields"**  
   _46TH Spring Topology and Dynamics Conference_, Mexico City, Mexico, Mar. 2012  
-  _Algebraic Methods in Geometry; Commutative and Homological Algebra in Foliations and Singularities_ (poster), Guanajuato, Mexico, Sep. 2011  
+  _Algebraic Methods in Geometry; Commutative and Homological Algebra in Foliations and Singularities_, Guanajuato, Mexico, Sep. 2011 \<<a href="{{ site.baseurl }}/documents/posters/poster-guanajuato.pdf">poster</a>\>  
   Seminario de Singularidades y Foliaciones (IMATE CU), Mexico City, Mexico, Mar. 2011  
 
  
