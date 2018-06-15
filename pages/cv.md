@@ -37,16 +37,16 @@ B.Sc.(honors) in Mathematics, December 2011
 ## Publications
 
 **[1]** "Strong topological invariance of the monodromy group at infinity for quadratic vector fields". _J. Singul._ **9** (2014), 193-202.  
-[doi: 10.5427/jsing.2014.9n](http://dx.doi.org/10.5427/jsing.2014.9n).
+[doi: 10.5427/jsing.2014.9n](http://dx.doi.org/10.5427/jsing.2014.9n). \<<a href="{{ site.baseurl }}/documents/strong_top_invariance-2014.pdf">pdf</a>\>
 
 **[2]** "The utmost rigidity property for quadratic foliations on $\mathbb{P}^2$ with an invariant line". _Bol. Soc. Mat. Mex._ **23** (2017), no.2, 759-813.  
-[doi: 10.1007/s40590-016-0127-5](http://doi.org/10.1007/s40590-016-0127-5).
+[doi: 10.1007/s40590-016-0127-5](http://doi.org/10.1007/s40590-016-0127-5). \<<a href="{{ site.baseurl }}/documents/utmost-rigidity-property2016.pdf">pdf</a>\>
 
 **[3]** "An example of a non-algebraizable singularity of a holomorphic foliation".  _Enseign. Math._ **62** (2016), 7-14.  
-[doi: 10.4171/LEM/62-1/2-3](http://doi.org/10.4171/LEM/62-1/2-3).
+[doi: 10.4171/LEM/62-1/2-3](http://doi.org/10.4171/LEM/62-1/2-3). \<<a href="{{ site.baseurl }}/documents/example_non-algebraic-2016.pdf">pdf</a>\>
 
 **[4]** "Twin vector fields and independence of spectra for quadratic vector fields".  _J. Dynam. Control Syst._ **23** (2017), 623-633.  
-[doi: 10.1007/s10883-016-9344-5](http://doi.org/10.1007/s10883-016-9344-5).
+[doi: 10.1007/s10883-016-9344-5](http://doi.org/10.1007/s10883-016-9344-5). \<<a href="{{ site.baseurl }}/documents/twin_vector_fields-2016.pdf">pdf</a>\>
 
 
 ### Preprints
