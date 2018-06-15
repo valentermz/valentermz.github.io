@@ -11,6 +11,7 @@ Here’s a list of some of the talks and posters I’ve presented in the last se
 ## Research presentations
 
 * **"The spectra of singularities of quadratic vector fields"**  
+  Séminaire Analyse (IRMA), Strasbourg, France, May 2018  
   Séminaire de Systèmes Dynamiques (IMT), Toulouse, France, Apr. 2018  
   Séminaire de Systèmes Dynamiques et Géométrie (LAREMA), Angers, France, Jan. 2018  
   Séminaire de Géométrie Analytique (IRMAR), Rennes, France, Oct. 2017  
