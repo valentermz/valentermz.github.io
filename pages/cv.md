@@ -8,7 +8,6 @@ permalink: /cv/
 
 **Cornell University**  
 Ph.D. in Mathematics, August 2017  
-M.Sc. in Mathematics, November 2014  
 
 **Universidad Nacional Autónoma de México (UNAM)**  
 B.Sc.(honors) in Mathematics, December 2011  
