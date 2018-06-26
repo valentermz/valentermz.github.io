@@ -56,7 +56,7 @@ B.Sc.(honors) in Mathematics, December 2011
 **[b]** "Spectra of quadratic vector fields on $\mathbb{C}^2$: The missing relation".  
 [arXiv: 1705.06340v2](https://arxiv.org/abs/1705.06340).
 
-You can also download a pdf version of my CV <a href="{{ site.baseurl }}/documents/CV-June2018.pdf">here</a>.
+You can also download a pdf version of my CV <a href="{{ site.baseurl }}/documents/CV/CV-June2018.pdf">here</a>.
 
 
 ## Additional material
