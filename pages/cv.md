@@ -10,7 +10,7 @@ permalink: /cv/
 Ph.D. in Mathematics, August 2017  
 
 **Universidad Nacional Autónoma de México (UNAM)**  
-B.Sc.(honors) in Mathematics, December 2011  
+B.Sc. in Mathematics, December 2011  
 
 
 ## Awards
