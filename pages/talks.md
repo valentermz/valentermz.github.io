@@ -12,7 +12,7 @@ Here’s a list of some of the talks and posters I’ve presented in the last se
 
 * **"Multipliers of self-maps of projective space"**  
   Mathematics Colloquium (Bernoulli Institute), Groningen, The Netherlands, Feb. 2019 (<a href="{{ site.baseurl }}/documents/slides/multipliers_of_self_maps-Bernoulli_Institute.pdf">slides</a>)  
-  Encuentro de foliaciones y singularidades (UNAM), Mexico City, Mexico, Aug. 2018.  
+  Encuentro de foliaciones y singularidades (UNAM), Mexico City, Mexico, Aug. 2018  
 
 * **"The spectra of singularities of quadratic vector fields"**  
   Séminaire Analyse (IRMA), Strasbourg, France, May 2018  
