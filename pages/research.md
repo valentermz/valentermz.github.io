@@ -11,7 +11,7 @@ Below is a description of the main topics I've worked on, with their respective 
 
 ## Isomonodromic deformations of connections
 
-My current research project at [IRMAR](http://irmar.univ-rennes1.fr/english/) is about the isomonodromy equations for deformations of logarithmic connections on specific examples of curves of positive genus. This is a work in progress in collaboration with [Frank Loray](http://perso.univ-rennes1.fr/frank.loray/).
+My current research project at [IRMAR](http://irmar.univ-rennes1.fr/english/) is about rank 2 logarithmic connections on elliptic curves. We are looking at how certain connections transform when they are pulled-back from the Riemann sphere to an elliptic curve via its elliptic involution. This procedure defines a map between the moduli spaces of connections, which we are trying to understand. This is a work in progress in collaboration with [Frank Loray](http://perso.univ-rennes1.fr/frank.loray/).
 
 
 ## Topological rigidity of polynomial foliations
@@ -38,15 +38,22 @@ In the paper [4] below is a first step in the study of the spectra of quadratic 
 
 In [6], a collaboration with [Yury Kudryashov](https://www.math.cornell.edu/m/People/bynetid/ik333), we describe all the algebraic relations among the extended spectra of quadratic vector fields. What's more, we show that the "hidden relations" do not come from an index theorem (as is the case for the previously known relations coming from the Euler-Jacobi formula, the Camacho-Sad theorem and the Baum-Bott theorem).
 
-The above ideas are very related to a similar situation about regular endomorphisms of $\mathbb{P}^2$. Indeed, a generic endomorphism has finitely many non-degenerate fixed points, and the derivative of the endomorphism at such fixed points carries two eigenvalues which are not equal to 1. Define the _spectra of fixed points_ to be the collection of such eigenvalues. In fact, the question on the spectra of singularities of vector fields can be reduced to the question on the spectra of fixed points of endomorphisms. This is discussed in [5]. In these notes it is also shown how all the index theorems for vector fields and endomorphisms that we know (holomorphic Lefschetz, Baum-Bott, Camacho-Sad, and so on) can be reduced to a particular case of the so-called Woods Hole trace formula (aka the Atiyah-Bott fixed point theorem). At that time, I had conjectured that the "missing relations" for quadratic vector fields could be described by the Woods Hole formula. However, this conjecture was mistaken, as follows from [6].
-
 **[4]** "Twin vector fields and independence of spectra for quadratic vector fields".  _J. Dynam. Control Syst._ **23** (2017), 623-633.
 
 **[5]** "The Woods Hole trace formula and indices for vector fields and foliations on $\mathbb{C}^2$" (preprint).
 
 **[6]** "Spectra of quadratic vector fields on $\mathbb{C}^2$: The missing relation" (preprint).
 
-**Note:** The code to perform all the computations for this last project is hosted on my [GitHub page](https://github.com/valentermz).
+
+# Multipliers at fixed points of self-maps on projective space
+
+The above ideas are very related to a similar situation about self-maps of $\mathbb{P}^2$. Indeed, a generic endomorphism has finitely many non-degenerate fixed points, and the derivative of the endomorphism at such fixed points carries two eigenvalues which are not equal to 1. Define the _spectra of fixed points_ to be the collection of such eigenvalues. In fact, the question on the spectra of singularities of vector fields can be understood as a very particular case of self-maps. This is discussed in [5], and also how all the index theorems for vector fields and endomorphisms that we know (holomorphic Lefschetz, Baum-Bott, Camacho-Sad, and so on) can be reduced to a particular case of the so-called Woods Hole trace formula (aka the Atiyah-Bott fixed point theorem). 
+
+In collaboration with [Adolfo Gillot](https://www.matem.unam.mx/~guillot/) we have studied the case of quadratic self-maps on the projectiv plane. We have described how to recover all the algebraic relations among the multipliers at fixed-points and proved that, in the generic case, these maps are completely determined by their multipliers (up to linear changes of coordinates). As an application, we have used the previous constructions to describe the *Kowalewski exponents* for a particular class of quadratic homogeneous vector fields on $\mathbb{C}^3$ having exclusively single-valued solutions.
+
+**[7]** "On the multipliers of fixed points of self-maps of the projective plane" (preprint).
+
+**Note:** The code to perform all the computations for this last two projects is hosted on my [GitHub page](https://github.com/valentermz).
 
 &nbsp;
 
