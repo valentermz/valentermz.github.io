@@ -59,10 +59,10 @@ B.Sc. in Mathematics, December 2011
 **[c]** "On the multipliers of fixed points of self-maps of the projective plane".  
 [arXiv: 1902.04433](https://arxiv.org/abs/1902.04433).
 
-You can also download a pdf version of my CV <a href="{{ site.baseurl }}/documents/CV/CV-June2018.pdf">here</a>.
-
 
 ## Additional material
+
+You can download a pdf version of my CV <a href="{{ site.baseurl }}/documents/CV/Ramirez-CV.pdf">here</a>.
 
 The computations needed in some of the above papers are hosted in my GitHub page:  
 
