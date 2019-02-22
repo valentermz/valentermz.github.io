@@ -68,7 +68,7 @@ B.Sc. in Mathematics, December 2011
 ### Ph.D. Thesis
 
 **&#8226;** "Quadratic vector fields on the complex plane: rigidity and analytic invariants". _Dissertation, Cornell University_ (2017).   
-[doi: X48913Z1](https://doi.org/10.7298/X48913Z1).
+[doi: 10.7298/X48913Z1](https://doi.org/10.7298/X48913Z1).
 
 
 ## Additional material
