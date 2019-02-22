@@ -4,6 +4,11 @@ title: CV
 permalink: /cv/
 ---
 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <!-- For correct rendering with Emacs' C-c C-c p -->
+
+You can download a pdf version of my CV <a href="{{ site.baseurl }}/documents/CV/Ramirez-CV.pdf">here</a>.
+
+
 ## Education
 
 **Cornell University**  
@@ -60,9 +65,13 @@ B.Sc. in Mathematics, December 2011
 [arXiv: 1902.04433](https://arxiv.org/abs/1902.04433).
 
 
-## Additional material
+### Ph.D. Thesis
 
-You can download a pdf version of my CV <a href="{{ site.baseurl }}/documents/CV/Ramirez-CV.pdf">here</a>.
+**&#8226;** "Quadratic vector fields on the complex plane: rigidity and analytic invariants". _Dissertation, Cornell University_ (2017).   
+[doi: X48913Z1](https://doi.org/10.7298/X48913Z1).
+
+
+## Additional material
 
 The computations needed in some of the above papers are hosted in my GitHub page:  
 
