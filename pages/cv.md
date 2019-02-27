@@ -4,9 +4,10 @@ title: CV
 permalink: /cv/
 ---
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <!-- For correct rendering with Emacs' C-c C-c p -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>  <!-- For correct rendering with Emacs -->
 
-You can download a pdf version of my CV <a href="{{ site.baseurl }}/documents/CV/Ramirez-CV.pdf">here</a>.
+
+You can download a pdf version <a href="{{ site.baseurl }}/documents/CV/Ramirez-CV.pdf">here</a>.
 
 
 ## Education

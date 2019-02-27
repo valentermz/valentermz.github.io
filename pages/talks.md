@@ -4,6 +4,8 @@ title: Selected talks
 permalink: /talks/
 ---
 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>  <!-- For correct rendering with Emacs -->
+
 
 Here’s a list of some of the talks and posters I’ve presented in the last several years.
 

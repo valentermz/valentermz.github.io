@@ -4,7 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-I'm mainly interested in the study, both local and global, of holomorphic foliations and vector fields on complex manifolds, and the rich interplay this theory has with dynamical systems, topology, and analytic and algebraic geometry. 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>  <!-- For correct rendering with Emacs -->
+
 
 Below is a description of the main topics I've worked on, with their respective publications. You can find more details, links and pdf versions of my publications in my [CV page](/cv/).
 
@@ -45,7 +46,7 @@ In [6], a collaboration with [Yury Kudryashov](https://www.math.cornell.edu/m/Pe
 **[6]** "Spectra of quadratic vector fields on $\mathbb{C}^2$: The missing relation" (preprint).
 
 
-# Multipliers at fixed points of self-maps on projective space
+## Multipliers at fixed points of self-maps on projective space
 
 The above ideas are very related to a similar situation about self-maps of $\mathbb{P}^2$. Indeed, a generic endomorphism has finitely many non-degenerate fixed points, and the derivative of the endomorphism at such fixed points carries two eigenvalues which are not equal to 1. Define the _spectra of fixed points_ to be the collection of such eigenvalues. In fact, the question on the spectra of singularities of vector fields can be understood as a very particular case of self-maps. This is discussed in [5], and also how all the index theorems for vector fields and endomorphisms that we know (holomorphic Lefschetz, Baum-Bott, Camacho-Sad, and so on) can be reduced to a particular case of the so-called Woods Hole trace formula (aka the Atiyah-Bott fixed point theorem). 
 
