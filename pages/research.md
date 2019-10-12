@@ -12,7 +12,7 @@ Below is a description of the main topics I've worked on, with their respective 
 
 ## Isomonodromic deformations of connections
 
-My current research project at [IRMAR](http://irmar.univ-rennes1.fr/english/) is about rank 2 logarithmic connections on elliptic curves. We are looking at how certain connections transform when they are pulled-back from the Riemann sphere to an elliptic curve via its elliptic involution. This procedure defines a map between the moduli spaces of connections, which we are trying to understand. This is a work in progress in collaboration with [Frank Loray](http://perso.univ-rennes1.fr/frank.loray/).
+My current research project at [IRMAR](http://irmar.univ-rennes1.fr/english/) is about rank 2 logarithmic connections on an elliptic curve with two punctures. We are looking at how certain connections transform when they are pulled-back from the Riemann sphere to the elliptic curve via a ramified double cover. This procedure defines a map between the moduli spaces of connections, which we are trying to understand. This is a work in progress in collaboration with [Frank Loray](http://perso.univ-rennes1.fr/frank.loray/).
 
 
 ## Topological rigidity of polynomial foliations
