@@ -7,7 +7,7 @@ permalink: /research/
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>  <!-- For correct rendering with Emacs -->
 
 
-Below is a description of the main topics I've worked on, with their respective publications. You can find more details, links and pdf versions of my publications in my [CV page](/cv/).
+Below is a description of the main topics I've worked on. You can find a simple list of my publications on my [CV page](/cv/).
 
 
 ## A map between moduli spaces of connections

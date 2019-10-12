@@ -12,6 +12,9 @@ Here’s a list of some of the talks and posters I’ve presented in the last se
 
 ## Research presentations
 
+* **"A map between moduli spaces of connections"**  
+  Séminaire de Géométrie Analytique (IRMAR), Rennes, France, Sep. 2019  
+
 * **"Multipliers of self-maps of projective space"**  
   Mathematics Colloquium (Bernoulli Institute), Groningen, The Netherlands, Feb. 2019 (<a href="{{ site.baseurl }}/documents/slides/multipliers_of_self_maps-Bernoulli_Institute.pdf">slides</a>)  
   Encuentro de foliaciones y singularidades (UNAM), Mexico City, Mexico, Aug. 2018  
