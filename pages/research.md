@@ -43,7 +43,7 @@ In [6], a collaboration with [Yury Kudryashov](https://www.math.cornell.edu/m/Pe
 
 **[5]** "The Woods Hole trace formula and indices for vector fields and foliations on $\mathbb{C}^2$". (Preprint). [arXiv: 1608.05321](https://arxiv.org/abs/1608.05321).
 
-**[6]** <font color=424242>(With Y. Kudryashov)</font> "Spectra of quadratic vector fields on $\mathbb{C}^2$: The missing relation". To appear in: *Mosc. Math. J.* [arXiv: 1705.06340](https://arxiv.org/abs/1705.06340).
+**[6]** (With Y. Kudryashov) "Spectra of quadratic vector fields on $\mathbb{C}^2$: The missing relation". To appear in: *Mosc. Math. J.* [arXiv: 1705.06340](https://arxiv.org/abs/1705.06340).
 
 
 ## Multipliers at fixed points of self-maps on projective space
@@ -52,7 +52,7 @@ The above ideas are very related to a similar situation about self-maps of $\mat
 
 In collaboration with [Adolfo Gillot](https://www.matem.unam.mx/~guillot/) we have studied the case of quadratic self-maps on the projectiv plane. We have described how to recover all the algebraic relations among the multipliers at fixed-points and proved that, in the generic case, these maps are completely determined by their multipliers (up to linear changes of coordinates). As an application, we have used the previous constructions to describe the *Kowalewski exponents* for a particular class of quadratic homogeneous vector fields on $\mathbb{C}^3$ having exclusively single-valued solutions.
 
-**[7]** <font color=424242>(With A. Guillot)</font> "On the multipliers of fixed points of quadratic self-maps of the projective plane with an invariant line". To appear in: *Comput. Methods Funct. Theory*. [arXiv: 1902.04433](https://arxiv.org/abs/1902.04433).
+**[7]** (With A. Guillot) "On the multipliers of fixed points of quadratic self-maps of the projective plane with an invariant line". To appear in: *Comput. Methods Funct. Theory*. [arXiv: 1902.04433](https://arxiv.org/abs/1902.04433).
 
 **Note:** The code to perform all the computations for several of these projects is hosted on my [GitHub page](https://github.com/valentermz).
 
