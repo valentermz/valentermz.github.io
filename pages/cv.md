@@ -53,20 +53,20 @@ B.Sc. in Mathematics, December 2011
 **[4]** "Twin vector fields and independence of spectra for quadratic vector fields".  _J. Dynam. Control Syst._ **23**, 623-633 (2017).  
 [doi: 10.1007/s10883-016-9344-5](http://doi.org/10.1007/s10883-016-9344-5). (<a href="{{ site.baseurl }}/documents/papers/twin_vector_fields-2016.pdf">pdf</a>).
 
-**[5]** (With Y. Kudryashov) "Spectra of quadratic vector fields on $\mathbb{C}^2$: The missing relation". To appear in: *Mosc. Math. J.*  
+**[5]** (With Y. Kudryashov) "Spectra of quadratic vector fields on $\mathbb{C}^2$: The missing relation". To appear in: *Mosc. Math. J.* (2018).  
 [arXiv: 1705.06340](https://arxiv.org/abs/1705.06340).
 
-**[6]** (With A. Guillot) "On the multipliers of fixed points of quadratic self-maps of the projective plane with an invariant line". To appear in: *Comput. Methods Funct. Theory*.  
-[arXiv: 1902.04433](https://arxiv.org/abs/1902.04433).
+**[6]** (With A. Guillot) "On the multipliers of fixed points of quadratic self-maps of the projective plane with an invariant line". To appear in: *Comput. Methods Funct. Theory*. (2019).  
+[doi: 10.1007/s40315-019-00293-w](http://doi.org/10.1007/s40315-019-00293-w).
 
 
 ### Preprints
 
-**[a]** "The Woods Hole trace formula and indices for vector fields and foliations on $\mathbb{C}^2$".  
+**[a]** "The Woods Hole trace formula and indices for vector fields and foliations on $\mathbb{C}^2$" (2016).  
 [arXiv: 1608.05321](https://arxiv.org/abs/1608.05321).
 
-**[b]** (With F. Loray) "A map between moduli spaces of connections".  
-In preparation.
+**[b]** (With F. Loray) "A map between moduli spaces of connections" (2019).  
+[arXiv: 1910.13535](https://arxiv.org/abs/1910.13535).
 
 
 ### Ph.D. Thesis
