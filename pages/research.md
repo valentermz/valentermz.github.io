@@ -12,7 +12,7 @@ Below is a description of the main topics I've worked on. You can find a simple 
 
 ## A map between moduli spaces of connections
 
-My most recent research project at [IRMAR](http://irmar.univ-rennes1.fr/english/) is about rank 2 logarithmic connections on an elliptic curve with two punctures. We are looking at how certain connections on the Riemann sphere transform when they are pulled-back to the elliptic curve via a ramified double cover. This procedure defines a map between the corresponding moduli spaces of connections. This is a collaboration with [Frank Loray](http://perso.univ-rennes1.fr/frank.loray/). Below you can find a preprint.
+My most recent research project at [IRMAR](http://irmar.univ-rennes1.fr/english/) is about rank 2 logarithmic connections on an elliptic curve with two punctures. We looked at how certain connections on the Riemann sphere transform when they are pulled-back to the elliptic curve via a ramified double cover. This procedure defines a map between the corresponding moduli spaces of connections. This is a collaboration with [Frank Loray](http://perso.univ-rennes1.fr/frank.loray/). Below you can find a preprint.
 
 **[a]** (With F. Loray) "A map between moduli spaces of connections". [arXiv: 1910.13535](https://arxiv.org/abs/1910.13535).
 
