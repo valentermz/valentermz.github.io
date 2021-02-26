@@ -8,11 +8,11 @@ title: Home
 
 ## About
 
-Lecturer of mathematics and statistics at the [Department of Applied Mathematics](https://www.utwente.nl/en/eemcs/damut/) at the [University of Twente](https://www.utwente.nl/).
+I'm a lecturer of mathematics and statistics at the [Department of Applied Mathematics](https://www.utwente.nl/en/eemcs/damut/) at the [University of Twente](https://www.utwente.nl/) since August 2020.
 
-I'm a mathematician who has worked in the areas of complex differential equations, dynamical systems and analytic/algebraic geometry. My research work has focused on holomorphic foliations, vector fields and self-maps on complex manifolds. In addition, I'm very interested in statistics, machine learning, programming, and mathematical education.
+As a researcher, I've worked in the areas of complex differential equations, dynamical systems and analytic/algebraic geometry. My work has focused on holomorphic foliations, vector fields and self-maps on complex manifolds. In addition, I'm very interested in statistics, machine learning, programming, and mathematical education.
 
-Up to September 2019 I was a Lebesgue Postdoctoral Fellow at the [Institut de Recherche Mathématique de Rennes](http://irmar.univ-rennes1.fr/) (IRMAR). There I worked under the supervision of Frank Loray as part of the Analytic Geometry group at IRMAR. I received my Ph.D. from [Cornell University](http://www.math.cornell.edu) in 2017. My thesis was directed by Yulij S. Ilyashenko. Previously, I studied at Universidad Nacional Autónoma de México (UNAM), where I worked with Laura Ortiz Bobadilla and Ernesto Rosales González at [Instituto de Matemáticas UNAM](http://www.matem.unam.mx/).
+Between 2017 and 2019 I was a Lebesgue Postdoctoral Fellow at the [Institut de Recherche Mathématique de Rennes](http://irmar.univ-rennes1.fr/) (IRMAR). There I worked under the supervision of Frank Loray as part of the Analytic Geometry group at IRMAR. I received my Ph.D. from [Cornell University](http://www.math.cornell.edu) in 2017. My thesis was directed by Yulij S. Ilyashenko. Previously, I studied at Universidad Nacional Autónoma de México (UNAM), where I worked with Laura Ortiz Bobadilla and Ernesto Rosales González at [Instituto de Matemáticas UNAM](http://www.matem.unam.mx/).
 
 
 ## Contact
