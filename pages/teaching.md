@@ -12,12 +12,13 @@ As a lecturer at the UT I teach courses on statistics and mathematics. In additi
 
 | Course | Period | Program |
 | :----- | :----- | :------ |
-| Linear Algebra | 2A, 2021 | Computer Science, Business Information Technology, Civil Engineering |
+| Intro to Mathematics + Calculus 1A | 1A, 2020-2021 | Computer Science, Business Information Technology, Civil Engineering |
+| Medical Statistics | 1A, 2020 | Technical Medicine |
+| Statistics & Probability | 1A, 2020-2021 | MSc Business Information Technology, MSc Industrial Engineering and Management |
 | Statistical Techniques | 1B, 2020 | Computer Science, Business Information Technology |
 | Signal Analysis | 1B, 2020 | Technical Medicine |
-| Intro to Mathematics + Calculus 1A | 1A, 2020 | Computer Science |
-| Medical Statistics | 1A, 2020 | Technical Medicine |
-| Statistics & Probability | 1A, 2020 | Business Information Technology, Industrial Engineering and Management |
+| Linear Algebra | 2A, 2021 | Computer Science, Business Information Technology, Civil Engineering |
+| Calculus 2 | 2B, 2021 | Civil Engineering, Biomedical Technology, Industrial Engineering and Management, Chemical Engineering |
 
 &nbsp;
 
