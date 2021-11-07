@@ -15,8 +15,10 @@ As a lecturer at the UT I teach courses on statistics and mathematics. In additi
 | Intro to Mathematics + Calculus 1A | 1A, 2020-2021 | Computer Science, Business Information Technology, Civil Engineering |
 | Medische Statistiek | 1A, 2020 | Technische Geneeskunde |
 | Statistics & Probability | 1A, 2020-2021 | MSc Business Information Technology, MSc Industrial Engineering and Management |
-| Statistical Techniques | 1B, 2020 | Computer Science, Business Information Technology |
+| Calculus 1 | 1A, 2021 | Advanced Technology |
+| Statistical Techniques | 1B, 2020-2021 | Computer Science, Business Information Technology |
 | Signaalanalyse | 1B, 2020 | Technische Geneeskunde |
+| Introduction to Mathematics and Modelling | 1B, 2021| Creative Technology |
 | Linear Algebra | 2A, 2021 | Computer Science, Business Information Technology, Civil Engineering |
 | Calculus 2 | 2B, 2021 | Civil Engineering, Biomedical Technology, Industrial Engineering and Management, Chemical Engineering |
 
