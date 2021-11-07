@@ -8,7 +8,7 @@ title: Home
 
 ## About
 
-I'm a lecturer of mathematics and statistics at the [Department of Applied Mathematics](https://www.utwente.nl/en/eemcs/damut/) at the [University of Twente](https://www.utwente.nl/) since August 2020.
+I'm a lecturer in mathematics and statistics at the [Department of Applied Mathematics](https://www.utwente.nl/en/eemcs/damut/) at the [University of Twente](https://www.utwente.nl/) since August 2020.
 
 As a researcher, I've worked in the areas of complex differential equations, dynamical systems and analytic/algebraic geometry. My work has focused on holomorphic foliations, vector fields and self-maps on complex manifolds. In addition, I'm very interested in statistics, machine learning, programming, and mathematical education.
 
