@@ -6,10 +6,36 @@ permalink: /teaching/
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>  <!-- For correct rendering with Emacs -->
 
-As a lecturer at the UT I teach courses on statistics and mathematics. In addition, I lead tutorials for multiple courses offered by the Department of Applied Mathematics. Below is the list of courses I've been inovolved with in either role:
+Below is the list of courses I've been inovolved with in recent years:
 
-&nbsp;
+### Wageningen University
 
+* MAT14903: Mathematics 2 (Analysis Applied)
+* MAT15003: Mathematics 3 (Linear Algebra Applied)
+* MAT23306: Multivariate Mathematics Applied
+* MAT15303: Statistics 1
+* MAT15403: Statistics 2
+* MAT34806: Bayesian Data Analysis
+* FPH21806: Unifying Concepts for Life Sciences (starting 2025)
+
+### Leiden University
+
+* 4433LALG3: Linear Algebra
+
+### University of Twente
+
+* 202001191: Intro to Mathematics + Calculus 1A
+* 202001205: Linear Algebra
+* 202001222: Calculus 2
+* 202000012: Signaalanalyse
+* 202001343: Signals and Transforms
+* 202000969: Mathematics and Modelling
+* 191506103: Statistics & Probability
+* 202001033: Statistical Techniques for CS/BIT
+* 202000828: Medische Statistiek
+
+
+<!-- >
 | Course | Period | Program |
 | :----- | :----- | :------ |
 | Intro to Mathematics + Calculus 1A | 1A, 2020-2021 | Computer Science, Business Information Technology, Civil Engineering |
@@ -21,6 +47,8 @@ As a lecturer at the UT I teach courses on statistics and mathematics. In additi
 | Introduction to Mathematics and Modelling | 1B, 2021| Creative Technology |
 | Linear Algebra | 2A, 2021 | Computer Science, Business Information Technology, Civil Engineering |
 | Calculus 2 | 2B, 2021 | Civil Engineering, Biomedical Technology, Industrial Engineering and Management, Chemical Engineering |
+</-->
+
 
 &nbsp;
 
