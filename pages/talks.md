@@ -47,6 +47,9 @@ Here’s a list of some of the talks and posters I’ve presented in the last se
  
 ## Expository talks
 
+* **Polynomial systems on the plane: from real to complex**   
+  Biometris Unified Colloquium (WUR), Wageningen, NL, Oct. 2022
+
 * **"On manifolds and fixed-point theorems"** (<a href="{{ site.baseurl }}/documents/slides/fixed_point_theorems-handout.pdf">slides-english</a>) (<a href="{{ site.baseurl }}/documents/slides/puntos-fijos-handout.pdf">slides-spanish</a>)   
   Seminario de Singularidades y Foliaciones (IMATE CU), Mexico City, Mexico, Aug. 2016  
   The Olivetti Club Seminar (Cornell), Ithaca, USA, Apr. 2016  
