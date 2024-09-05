@@ -29,8 +29,8 @@ B.Sc. in Mathematics, December 2011
 
 ## Fellowships
 
-**Marie Skłodowska-Curie Fellow** – 2017 to present  
-**Campus France PRESTIGE Fellow** – 2017 to present  
+**Marie Skłodowska-Curie Fellow** – 2017-2019   
+**Campus France PRESTIGE Fellow** – 2017-2019   
 **Conacyt Fellow** – 2013-2017  
 **Cornell Graduate School Fellow** – 2015-2017  
 **Beca Complemento DGRI-SEP** – 2013-2015  
